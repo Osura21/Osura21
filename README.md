@@ -45,6 +45,13 @@
 </table>
 
 ---
+<div align="center">
+
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
 
 <!-- ====== SOCIALS ====== -->
 <h3 align="center">🌐 Connect with me</h3>
@@ -101,9 +108,7 @@
 ---
 
 <!-- ====== TROPHIES & ACTIVITY ====== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osu2002&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osu2002&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="activity graph"/>
@@ -111,12 +116,7 @@
 
 ---
 
-<!-- ====== CONTRIBUTION SNAKE (needs the workflow below) ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/osu2002/osu2002/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
----
 
 <!-- ====== FOOTER ====== -->
 <h3 align="center">✨ Thank you for visiting! ✨</h3>
